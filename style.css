@@ -4,32 +4,43 @@ body{
     color: #3a87bb;
     font-family: 'EB Garamond', serif;
     font-size: 25px;
-    font
+    text-decoration: none;
 }
 
-p{
-    
-    font-style: oblique;
-}
 h1, h2{
     
     text-align: center;
+    font-size: 200%;
     font-family: 'Harry Potter', sans-serif;
 }
+
 
 #foto_nathalia{
     border-radius: 90%;
     margin-right: 5%;
+    padding: 0.2%;
+    background-color: #3a87bb;
 }
 
 ul{
     list-style-image: url(./requilias-da-morte-removebg-preview-removebg-preview\ \(1\).png);
-    
 }
 
-li{ 
-    text-decoration: none;
-    text-decoration-color: aliceblue;
+a{
+    font-family: fantasy;
+    text-decoration-line: none;
+    
+}
+.links{
+    color: #3a87bb;
+}
+
+
+#link-foto{
+    color: white;
+    background-color: #3a87bb;
+    padding: 15px 30px;
+    border-radius: 15px;
 }
 
 h4{
