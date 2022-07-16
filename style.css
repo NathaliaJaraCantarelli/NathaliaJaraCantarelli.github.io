@@ -59,6 +59,8 @@ a{
 }
 .links{
     color: #3a87bb;
+    size: 40%;
+    font-size: auto;
 }
 
 
@@ -75,6 +77,7 @@ h4{
 
 .link-acessados{
     display: inline-block;
-    margin-left: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
     text-align: center;
 }
