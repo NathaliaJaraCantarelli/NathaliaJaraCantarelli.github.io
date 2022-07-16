@@ -67,7 +67,7 @@ a{
 #link-foto{
     color: white;
     background-color: #3a87bb;
-    padding: 15px 30px;
+    padding: 15px 25px;
     border-radius: 15px;
 }
 
@@ -80,4 +80,9 @@ h4{
     margin-left: 5%;
     margin-right: 5%;
     text-align: center;
+}
+
+ol p{
+    margin-top: 0%;
+    margin-bottom: 2%;
 }
