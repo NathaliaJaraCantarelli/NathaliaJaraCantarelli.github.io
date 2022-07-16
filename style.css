@@ -7,9 +7,7 @@ body{
     /*background-color: #54b2e81e;*/
     background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url(./fundo_HARRY_POTTER.jpg);
     background-size: 100%;
-    background-position: fixed;
-    background-repeat: no-repeat;
-    background-position-y: center;
+    background-position: center;
     color: #3a87bb;
     font-family: 'EB Garamond', serif;
     font-size: 25px;
@@ -28,6 +26,9 @@ h1, h2{
     text-align: center;
     font-size: 40px;
     font-family: 'Harry Potter', 'fantasy', sans-serif;
+    margin-top: 1%;
+    margin-bottom: 1%;
+
 }
 
 
@@ -42,6 +43,14 @@ h1, h2{
 ul{
     list-style-image: url(./requilias-da-morte-removebg-preview-removebg-preview\ \(1\).png);
 }
+
+ol{
+    display: inline-block;
+    vertical-align: top;
+    padding: 0% 10% 0% 20%;
+    
+}
+
 
 a{
     font-family: fantasy;
@@ -62,4 +71,10 @@ a{
 
 h4{
     text-align: right;
+}
+
+.link-acessados{
+    display: inline-block;
+    margin-left: 10%;
+    text-align: center;
 }
